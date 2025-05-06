@@ -1,1 +1,0 @@
-console.log('Insight app loaded');
